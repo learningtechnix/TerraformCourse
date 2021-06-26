@@ -6,9 +6,10 @@
 
 <details>
 <summary>Chapter 1: INTRODUCTION?</summary>
-     1. About terraform
-  <br>   2. Pre-requisite
-     3. Installation on Linux
-     4. Installation on windows (optional)
+     <ul><li>About terraform</li>
+  <li>Pre-requisite</li>
+     <li>Installation on Linux</li>
+     <li>Installation on windows (optional)</li>
+</ul>
 </details>
 
