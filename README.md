@@ -20,7 +20,7 @@
      <li> - [ ] Initializng your environment</li>
 </ul>
 </details>
-
+<details>
 <summary>Chapter 3: PROVIDERS</summary>
 <ul><li> - Understanding a resource</li>
      <li> - Tainiting a resource</li>
