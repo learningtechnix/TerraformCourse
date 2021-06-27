@@ -27,6 +27,7 @@
 </ul>
 </details>
 
+<details>
 <summary>Chapter 4: GETTING STARTED WITH INFRASTRUCTURE DEPLOYMENT</summary>
 <ul> <li>Creating first EC2 with terraform</li>
      <li>Understanding resources and Providers</li>
@@ -34,7 +35,7 @@
      <li>Selective destruction</li>
 </ul>
 </details>
-
+<details>
 <summary>Chapter 5: UNDERSTANDING TERRAFORM COMPONENTS</summary>
 <ul> <li> - [ ] Understanding and displaying state.</li>
      <li> - [ ] Understanding desired and current states.</li>
@@ -48,7 +49,7 @@
      <li> - [ ] Infrastructure destruction.</li>
 </ul>
 </details>
-
+<details>
 <summary>Chapter 6: VARIABLES IN TERRAFORM</summary>
 <ul> <li> Writing and using Variables.</li>
      <li> Data types Variables.</li>
@@ -58,7 +59,7 @@
      <li> Variable Precedence.</li>
 </ul>
 </details>
-
+<details>
 <summary>Chapter 7: INFRASTRUCTURE REPETITION</summary>
 <ul> <li> - [ ] Deployment of multiple resources using Count.</li>
      <li> - [ ] Using conditional expressions.</li>
@@ -68,7 +69,7 @@
      <li> - [ ] Data sources introduction.</li>
 </ul>
 </details>
-
+<details>
 <summary>Chapter 8: Pre-appended codes</summary>
 <ul> <li> Using datasource and calling via file.</li>
      <li> Understanding provisioners.</li>
@@ -78,7 +79,7 @@
      <li> Failure Bahvior.</li>
 </ul>
 </details>
-
+<details>
 <summary>Chapter 9: UNDERSTANDING MODULES</summary>
 <ul> <li> - [ ] Don't repeat yourself ......</li>
      <li> - [ ] Inplementing EC2 module with Terraform.</li>
@@ -88,7 +89,7 @@
      <li> - [ ] Implementing workspaces.</li>
 </ul>
 </details>
-
+<details>
 <summary>Chapter 10: REMOTE STATE MANAGEMENT</summary>
 <ul> <li> Using GIT as module source.</li>
      <li> Other module sources.</li>
