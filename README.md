@@ -21,9 +21,10 @@
 </ul>
 </details>
 <details>
-<summary>Chapter 3: PROVIDERS</summary>
-<ul><li> - Understanding a resource</li>
+<summary>Chapter 3: Resources</summary>
+<ul><li> - Understanding various attributes of resource</li>
      <li> - Tainiting a resource</li>
+     <li> - Manipulating a resource </li>
 </ul>
 </details>
 
