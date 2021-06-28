@@ -98,3 +98,22 @@
      <li> Locking state file to avoid corruption.</li>
 </ul>
 </details>
+
+<details>
+<summary>Chapter 11: SECURITY PRIMERS</summary>
+<ul> <li> - [ ] Handling access & Secret ket in Providers.</li>
+     <li> - [ ] Provider use-case: Resources in multiple region.</li>
+     <li> - [ ] Handlng multiple AWS profiles.</li>
+     <li> - [ ] Sensitive Parameters.</li>
+</ul>
+</details>
+
+<details>
+<summary>Chapter 12: TERRAFORM CLOUD</summary>
+<ul> <li> Cloud Overview.</li>
+     <li> Creating Infrastructure with Terraform cloud.</li>
+     <li> Sentinals.</li>
+     <li> Remote backend.</li>
+     <li> Implementing Remote Backend in Cloud.</li>
+</ul>
+</details>
